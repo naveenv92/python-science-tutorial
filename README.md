@@ -19,7 +19,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 ### <b>An Introduction to Making Scientific Publication Plots with Python</b>  
 
 <p align='center'>
-<img src='https://miro.medium.com/max/808/1*3hgnupbwTYNkWsf44a7QAw.png' height=600px>
+<img src='https://miro.medium.com/max/808/1*3hgnupbwTYNkWsf44a7QAw.png' height=400px>
 </p>  
 
 <b>Link to Article: </b>[https://towardsdatascience.com/an-introduction-to-making-scientific-publication-plots-with-python-ea19dfa7f51e](https://towardsdatascience.com/an-introduction-to-making-scientific-publication-plots-with-python-ea19dfa7f51e)  
@@ -31,7 +31,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 ### <b>Basic Curve Fitting of Scientific Data With Python</b>  
 
 <p align='center'>
-<img src='https://miro.medium.com/max/784/1*vN3Fuen7j4IJWNq3yuZzbQ.png' height=600px>
+<img src='https://miro.medium.com/max/784/1*vN3Fuen7j4IJWNq3yuZzbQ.png' height=400px>
 </p>  
 
 <b>Link to Article: </b>[https://towardsdatascience.com/basic-curve-fitting-of-scientific-data-with-python-9592244a2509](https://towardsdatascience.com/basic-curve-fitting-of-scientific-data-with-python-9592244a2509)  
@@ -43,7 +43,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 ### <b>Visualizing Three-Dimensional Data - Heatmaps, Contours, and 3D Plots with Python</b>  
 
 <p align='center'>
-<img src='https://miro.medium.com/max/1326/1*GVYJCJ3DyVO9TbnpUhSM5Q.png' height=600px>
+<img src='https://miro.medium.com/max/1326/1*GVYJCJ3DyVO9TbnpUhSM5Q.png' height=400px>
 </p>  
 
 <b>Link to Article: </b>[https://towardsdatascience.com/visualizing-three-dimensional-data-heatmaps-contours-and-3d-plots-with-python-bd718d1b42b4](https://towardsdatascience.com/visualizing-three-dimensional-data-heatmaps-contours-and-3d-plots-with-python-bd718d1b42b4)  
@@ -55,7 +55,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 ### <b>Intro to Dynamic Visualization with Python - Animations and Interactive Plots</b>  
 
 <p align='center'>
-<img src='https://miro.medium.com/max/1326/1*GVYJCJ3DyVO9TbnpUhSM5Q.png' height=600px>
+<img src='https://miro.medium.com/max/866/1*PxqmKvYvn2AUDxC_GetC9Q.gif' height=400px>
 </p>  
 
 <b>Link to Article: </b>[https://towardsdatascience.com/intro-to-dynamic-visualization-with-python-animations-and-interactive-plots-f72a7fb69245](https://towardsdatascience.com/intro-to-dynamic-visualization-with-python-animations-and-interactive-plots-f72a7fb69245)  
