@@ -72,6 +72,6 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 <b>Link to Article: </b>[https://towardsdatascience.com/a-guide-to-creating-and-using-your-own-matplotlib-style-30de6c60bac0](https://towardsdatascience.com/a-guide-to-creating-and-using-your-own-matplotlib-style-30de6c60bac0)  
 
-<b>Notebook: </b>[scientific.ipynb](./style/scientific.mplstyle)  
+<b>Notebook: </b>[scientific.mplstyle](./style/scientific.mplstyle)  
 
 ---
