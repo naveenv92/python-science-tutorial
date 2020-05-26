@@ -63,3 +63,15 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 <b>Notebook: </b>[animation.ipynb](./animation/animation.ipynb)  
 
 ---
+
+### <b>Intro to Dynamic Visualization with Python - Animations and Interactive Plots</b>  
+
+<p align='center'>
+<img src='https://miro.medium.com/max/1118/1*eTIbkSjuW5KNqPgEJsFaYA.png' height=400px>
+</p>  
+
+<b>Link to Article: </b>[https://towardsdatascience.com/a-guide-to-creating-and-using-your-own-matplotlib-style-30de6c60bac0](https://towardsdatascience.com/a-guide-to-creating-and-using-your-own-matplotlib-style-30de6c60bac0)  
+
+<b>Notebook: </b>[scientific.ipynb](./style/scientific.mplstyle)  
+
+---
