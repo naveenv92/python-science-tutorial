@@ -1,0 +1,8 @@
+# Ignore the images and GIF files
+animation/*.png
+animation/*.gif
+heatmaps/*.png
+
+# Ignore .ipynb checkpoints
+heatmaps/.ipynb_checkpoints/*.*
+intro/.ipynb_checkpoints/*.*
