@@ -12,7 +12,9 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 3. [Visualizing Three-Dimensional Data - Heatmaps, Contours, and 3D Plots with Python](#visualizing-three-dimensional-data-heatmaps-contours-and-3d-plots-with-python)  
 
-4. [Intro to Dynamic Visualization with Python - Animations and Interactive Plots](#intro-to-dynamic-visualization-with-python-animations-and-interactive-plots)
+4. [Intro to Dynamic Visualization with Python - Animations and Interactive Plots](#intro-to-dynamic-visualization-with-python-animations-and-interactive-plots)  
+
+5. [A Guide to Creating and Using Your Own Matplotlib Style](#a-guide-to-creating-and-using-your-own-matplotlib-style)
 
 ---  
 
@@ -64,7 +66,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 ---
 
-### <b>Intro to Dynamic Visualization with Python - Animations and Interactive Plots</b>  
+### <b>A Guide to Creating and Using Your Own Matplotlib Style</b>  
 
 <p align='center'>
 <img src='https://miro.medium.com/max/1118/1*eTIbkSjuW5KNqPgEJsFaYA.png' height=400px>
