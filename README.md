@@ -74,6 +74,18 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 <b>Link to Article: </b>[https://towardsdatascience.com/a-guide-to-creating-and-using-your-own-matplotlib-style-30de6c60bac0](https://towardsdatascience.com/a-guide-to-creating-and-using-your-own-matplotlib-style-30de6c60bac0)  
 
-<b>Notebook: </b>[scientific.mplstyle](./style/scientific.mplstyle)  
+<b>Style File: </b>[scientific.mplstyle](./style/scientific.mplstyle)  
+
+---
+
+### <b>A Guide to Creating and Using Your Own Matplotlib Style</b>  
+
+<p align='center'>
+<img src='https://miro.medium.com/max/1400/1*bqQFD7BgHk6CBu_ebfTQmg.png' height=400px>
+</p>  
+
+<b>Link to Article: </b>[https://towardsdatascience.com/generate-easily-reproducible-scientific-figures-with-pylustrator-9426292e07a4](https://towardsdatascience.com/generate-easily-reproducible-scientific-figures-with-pylustrator-9426292e07a4)  
+
+<b>Python Script: </b>[plot.py](./pylustrator-example/plot.py)  
 
 ---
