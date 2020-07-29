@@ -14,7 +14,9 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 4. [Intro to Dynamic Visualization with Python - Animations and Interactive Plots](#intro-to-dynamic-visualization-with-python-animations-and-interactive-plots)  
 
-5. [A Guide to Creating and Using Your Own Matplotlib Style](#a-guide-to-creating-and-using-your-own-matplotlib-style)
+5. [A Guide to Creating and Using Your Own Matplotlib Style](#a-guide-to-creating-and-using-your-own-matplotlib-style)  
+
+6. [Generate Easily Reproducible Scientific Figures with Pylustrator](#generate-easily-reproducible-scientific-figures-with-pylustrator)
 
 ---  
 
@@ -78,7 +80,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 ---
 
-### <b>A Guide to Creating and Using Your Own Matplotlib Style</b>  
+### <b>Generate Easily Reproducible Scientific Figures with Pylustrator</b>  
 
 <p align='center'>
 <img src='https://miro.medium.com/max/1400/1*bqQFD7BgHk6CBu_ebfTQmg.png' height=400px>
